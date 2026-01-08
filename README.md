@@ -10,10 +10,13 @@ sajilo_aawas/
 ├── frontend/   → Frontend application
 │   └── README.md
 │
+
+
 ├── backend/    → Backend application
 │   └── README.md
 │
 └── README.md   → Main project overview (this file)
+
 
 🚀 Setup & Usage
 
