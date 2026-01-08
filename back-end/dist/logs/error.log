@@ -1,0 +1,5 @@
+Tue, 06 Jan 2026 06:46:57 GMT	POST	/cloudinary/upload	localhost:3333	undefined	undefined	undefined
+Tue, 06 Jan 2026 14:22:10 GMT	POST	/auth/login	localhost:3333	Error: please provide the correct data
+    at throwError (C:\Users\sujan\Desktop\Sajilo Aawas\Sajilo Aawas\back-end\dist\middleware\CusomError.js:8:17)
+    at CustomError.invalidField (C:\Users\sujan\Desktop\Sajilo Aawas\Sajilo Aawas\back-end\dist\middleware\CusomError.js:16:12)
+    at logIn (C:\Users\sujan\Desktop\Sajilo Aawas\Sajilo Aawas\back-end\dist\controller\auth.controller.js:65:41)	please provide the correct data	Error
