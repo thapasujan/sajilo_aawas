@@ -31,6 +31,9 @@ Please follow the instructions provided in the backend/README.md to set up and r
 
 Each part has its own dependencies, environment setup, and run commands clearly explained in their respective README files.
 
+Please Follow the below link to get the code used for the location recommendation purpose. Although you can use only by installing these two frontend and backend, if you need the code and it's method then refer to this github link below:
+https://github.com/thapasujan/location_recommendation.git
+
 ℹ️ Notes
 
 Make sure both frontend and backend are running properly for full functionality.
