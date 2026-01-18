@@ -36,6 +36,9 @@ https://github.com/thapasujan/location_recommendation.git
 
 ℹ️ Notes
 
+If you want the documentation of this project then please visit below link to access the documentations: 
+https://drive.google.com/drive/folders/1YmTsPQl9tMxn8_f96blPAuRS2yHzLRDQ?usp=sharing 
+
 Make sure both frontend and backend are running properly for full functionality.
 
 Refer to individual READMEs for configuration, environment variables, and troubleshooting.
